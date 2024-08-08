@@ -1,0 +1,2 @@
+this is a sample text
+We modify some changes in the branch1 sample file
